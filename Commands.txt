@@ -1,0 +1,2 @@
+dotnet ef migrations add FirstMigration --project ..\RentAndInvoice.Core.Infraestructure\
+dotnet ef database update --project ..\RentAndInvoice.Core.Infraestructure\

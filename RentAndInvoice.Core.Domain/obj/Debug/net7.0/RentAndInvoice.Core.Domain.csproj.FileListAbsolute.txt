@@ -1,0 +1,12 @@
+E:\Courses\NetCore\RentAndInvoice\RentAndInvoice.Core\RentAndInvoice.Core.Domain\bin\Debug\net7.0\RentAndInvoice.Core.Domain.deps.json
+E:\Courses\NetCore\RentAndInvoice\RentAndInvoice.Core\RentAndInvoice.Core.Domain\bin\Debug\net7.0\RentAndInvoice.Core.Domain.dll
+E:\Courses\NetCore\RentAndInvoice\RentAndInvoice.Core\RentAndInvoice.Core.Domain\bin\Debug\net7.0\RentAndInvoice.Core.Domain.pdb
+E:\Courses\NetCore\RentAndInvoice\RentAndInvoice.Core\RentAndInvoice.Core.Domain\obj\Debug\net7.0\RentAndInvoice.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\NetCore\RentAndInvoice\RentAndInvoice.Core\RentAndInvoice.Core.Domain\obj\Debug\net7.0\RentAndInvoice.Core.Domain.AssemblyInfoInputs.cache
+E:\Courses\NetCore\RentAndInvoice\RentAndInvoice.Core\RentAndInvoice.Core.Domain\obj\Debug\net7.0\RentAndInvoice.Core.Domain.AssemblyInfo.cs
+E:\Courses\NetCore\RentAndInvoice\RentAndInvoice.Core\RentAndInvoice.Core.Domain\obj\Debug\net7.0\RentAndInvoice.Core.Domain.csproj.CoreCompileInputs.cache
+E:\Courses\NetCore\RentAndInvoice\RentAndInvoice.Core\RentAndInvoice.Core.Domain\obj\Debug\net7.0\RentAndInvoice.Core.Domain.dll
+E:\Courses\NetCore\RentAndInvoice\RentAndInvoice.Core\RentAndInvoice.Core.Domain\obj\Debug\net7.0\refint\RentAndInvoice.Core.Domain.dll
+E:\Courses\NetCore\RentAndInvoice\RentAndInvoice.Core\RentAndInvoice.Core.Domain\obj\Debug\net7.0\RentAndInvoice.Core.Domain.pdb
+E:\Courses\NetCore\RentAndInvoice\RentAndInvoice.Core\RentAndInvoice.Core.Domain\obj\Debug\net7.0\ref\RentAndInvoice.Core.Domain.dll
+E:\Courses\NetCore\RentAndInvoice\RentAndInvoice.Core\RentAndInvoice.Core.Domain\obj\Debug\net7.0\RentAndInvoice.Core.Domain.sourcelink.json

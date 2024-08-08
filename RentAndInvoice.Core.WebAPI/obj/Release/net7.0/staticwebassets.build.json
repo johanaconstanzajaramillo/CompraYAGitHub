@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iD9J4wX+ZEf/bYPOT7ZfkJ7dkxXf3zD5zpUB/W6TgDw=",
+  "Source": "RentAndInvoice.Core.WebAPI",
+  "BasePath": "_content/RentAndInvoice.Core.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

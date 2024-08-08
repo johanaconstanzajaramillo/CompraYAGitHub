@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "RentAndInvoice.Core.Domain/1.0.0": {
+        "runtime": {
+          "RentAndInvoice.Core.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RentAndInvoice.Core.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
